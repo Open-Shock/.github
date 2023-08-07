@@ -1,7 +1,7 @@
 # ShockLink
 ShockLink is a opensource platform to control various shocking devices to fulfill all your masochistic needs.
 
-Mainly focused on controling shockers via a esp32.
+Mainly focused on controlling shockers via a esp32.
 
 ## Features already implemented:
 + Realtime control of multiple shocker types
