@@ -6,7 +6,7 @@ Mainly focused on controling shockers via a esp32.
 ## Features already implemented:
 + Realtime control of multiple shocker types
 + Account management
-+ Share shockers permantenly with friends
++ Share shockers permanently with friends
 + Shareable links
 + API for applications to integrate into the platform
 + ShockOsc for shocking control via OSC
