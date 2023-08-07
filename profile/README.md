@@ -14,7 +14,7 @@ Mainly focused on controling shockers via a esp32.
 
 ## Planned features / wip:
 + Local server
-+ Advanced realtime control / modulating intensity as its going / patters and more!
++ Advanced realtime control / modulating intensity as its going / patterns and more!
 + Dashboard to group shockers together and have greater control
 
 ## Discord
