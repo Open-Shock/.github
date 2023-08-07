@@ -7,6 +7,7 @@ Mainly focused on controling shockers via a esp32.
 + Realtime control of multiple shocker types
 + Account management
 + Share shockers permantenly with friends
++ Shareable links
 + API for applications to integrate into the platform
 + ShockOsc for shocking control via OSC
 + Web control via the web panel
@@ -15,7 +16,6 @@ Mainly focused on controling shockers via a esp32.
 + Local server
 + Advanced realtime control / modulating intensity as its going / patters and more!
 + Dashboard to group shockers together and have greater control
-+ Shareable links
 
 ## Discord
 https://discord.gg/AHcCbXbEcF
