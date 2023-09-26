@@ -1,5 +1,5 @@
-# ShockLink
-ShockLink is a opensource platform to control various shocking devices to fulfill all your masochistic needs.
+# OpenShock
+OpenShock, formally ShockLink, is a opensource platform to control various shocking devices to fulfill all your masochistic needs.
 
 Mainly focused on controlling shockers via a esp32.
 
@@ -16,6 +16,10 @@ Mainly focused on controlling shockers via a esp32.
 + Local server
 + Advanced realtime control / modulating intensity as its going / patterns and more!
 + Dashboard to group shockers together and have greater control
+
+## Officially hosted instance
+The officialy hosted instance goes by the name of [ShockLink.net](https://ShockLink.net) now!
+
 
 ## Discord
 https://discord.gg/AHcCbXbEcF
