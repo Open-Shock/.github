@@ -1,5 +1,5 @@
 # OpenShock
-OpenShock, formally ShockLink, is a opensource platform to control various shocking devices to fulfill all your masochistic needs.
+OpenShock, formerly ShockLink, is a opensource platform to control various shocking devices to fulfill all your masochistic needs.
 
 Mainly focused on controlling shockers via a esp32.
 
