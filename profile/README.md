@@ -22,4 +22,4 @@ The officialy hosted instance goes by the name of [ShockLink.net](https://ShockL
 
 
 ## Discord
-https://discord.gg/AHcCbXbEcF
+https://discord.gg/OpenShock
