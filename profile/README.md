@@ -5,6 +5,7 @@ Mainly focused on controlling shockers via a esp32.
 
 ## Features already implemented:
 + Realtime control of multiple shocker types
++ Advanced realtime control / modulating intensity as its going
 + Account management
 + Share shockers permanently with friends
 + Shareable links
@@ -13,8 +14,9 @@ Mainly focused on controlling shockers via a esp32.
 + Web control via the web panel
 
 ## Planned features / wip:
-+ Local server
-+ Advanced realtime control / modulating intensity as its going / patterns and more!
++ Local server (on the ESP directly)
++ New Frontend
+  
 + Dashboard to group shockers together and have greater control
 
 ## Officially hosted instance
