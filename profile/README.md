@@ -25,7 +25,8 @@ Mainly focused on controlling shockers via a esp32.
 + Dashboard to group shockers together and have greater control
 
 ## Officially hosted instance
-The officialy hosted instance goes by the name of [ShockLink.net](https://ShockLink.net) now!
+
+You can find the officially hosted instance at [OpenShock.app](https://OpenShock.app)
 
 
 ## Discord
