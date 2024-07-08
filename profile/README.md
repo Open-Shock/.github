@@ -26,7 +26,7 @@ Mainly focused on controlling shockers via a esp32.
 
 ## Officially hosted instance
 
-You can find the officially hosted instance at [OpenShock.app](https://OpenShock.app)
+You can find the officially hosted instance at [openshock.app](https://openshock.app)
 
 
 ## Discord
