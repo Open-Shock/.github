@@ -4,6 +4,8 @@
 
 ---
 
+</div></center>
+
 [![Documentation](https://img.shields.io/badge/docs-mkdocs-blue.svg)](https://openshock.org)
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsors-ff69b4)](https://github.com/sponsors/openshock)
 [![Discord](https://img.shields.io/discord/1078124408775901204)](https://discord.gg/openshock)
