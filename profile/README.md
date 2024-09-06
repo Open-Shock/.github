@@ -1,12 +1,19 @@
-# OpenShock
+<center><div align="center">
+
+<img alt="OpenShock Logo" height="150px" width="150px" src="https://openshock.org/IconSlowSpin.svg" />
+
+<h1><b>OpenShock</b></h1>
 
 [![Documentation](https://img.shields.io/badge/docs-mkdocs-blue.svg)](https://openshock.org)
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsors-ff69b4)](https://github.com/sponsors/openshock)
 [![Discord](https://img.shields.io/discord/1078124408775901204)](https://discord.gg/openshock)
 
-OpenShock, formerly ShockLink, is a opensource platform to control various shocking devices to fulfill all your masochistic needs.
 
-Mainly focused on controlling shockers via a esp32.
+OpenShock, formerly ShockLink, is a opensource platform to control various shocking devices via the internet and much more.
+
+![Web Interface](https://openshock.org/images/webui/shockers.webp)
+
+We currently mainly focus on controlling premade shockers via esp32 using 433 MHz RF.
 
 ## Features already implemented:
 + Realtime control of multiple shocker types
@@ -18,10 +25,9 @@ Mainly focused on controlling shockers via a esp32.
 + ShockOsc for shocking control via OSC
 + Web control via the web panel
 
-## Planned features / wip:
+## WIP:
 + Local server (on the ESP directly)
 + New Frontend
-  
 + Dashboard to group shockers together and have greater control
 
 ## Officially hosted instance
