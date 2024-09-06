@@ -1,8 +1,8 @@
 <center><div align="center">
 
-<img alt="OpenShock Logo" height="150px" width="150px" src="https://openshock.org/IconSlowSpin.svg" />
+<img alt="OpenShock" width="800px" src="https://openshock.org/logo.svg" />
 
-<h1><b>OpenShock</b></h1>
+---
 
 [![Documentation](https://img.shields.io/badge/docs-mkdocs-blue.svg)](https://openshock.org)
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsors-ff69b4)](https://github.com/sponsors/openshock)
